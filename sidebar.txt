@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tyv:home|Door43 (tyv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tyv|d43-tyv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tyv/archive/master.zip|d43-tyv.zip]]
+
+**Recent Changes**
+{{changes>ns = tyv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tyv|Ethnologue data]]
+
